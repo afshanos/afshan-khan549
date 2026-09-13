@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> We will now discuss in a little more detail the Struggle for Existence. — *Charles Darwin*
+> First learn the meaning of what you say, and then speak. — *Epictetus*
 
 <!-- QUOTE-END -->
 <!--
