@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> First learn the meaning of what you say, and then speak. — *Epictetus*
+> Do what is right, not what is easy, nor what is popular. — *Roy T. Bennett*
 
 <!-- QUOTE-END -->
 <!--
