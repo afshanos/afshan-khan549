@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Do what is right, not what is easy, nor what is popular. — *Roy T. Bennett*
+> Everything you can imagine is real. — *Pablo Picasso*
 
 <!-- QUOTE-END -->
 <!--
