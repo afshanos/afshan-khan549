@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Everything you can imagine is real. — *Pablo Picasso*
+> If you try to micromanage yourself all you're going to do is make yourself miserable. — *Naval Ravikant*
 
 <!-- QUOTE-END -->
 <!--
