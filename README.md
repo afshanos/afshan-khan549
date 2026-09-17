@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> If you try to micromanage yourself all you're going to do is make yourself miserable. — *Naval Ravikant*
+> Dreams are the royal road to the unconscious. — *Sigmund Freud*
 
 <!-- QUOTE-END -->
 <!--
