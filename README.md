@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Dreams are the royal road to the unconscious. — *Sigmund Freud*
+> It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has. — *Henry Ward Beecher*
 
 <!-- QUOTE-END -->
 <!--
