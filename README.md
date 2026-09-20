@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Do not stop thinking of life as an adventure. — *Eleanor Roosevelt*
+> We suffer more often in imagination than in reality. — *Seneca*
 
 <!-- QUOTE-END -->
 <!--
