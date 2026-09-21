@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> We suffer more often in imagination than in reality. — *Seneca*
+> The shoe that fits one person pinches another; there is no recipe for living that suits all cases. — *Carl Jung*
 
 <!-- QUOTE-END -->
 <!--
