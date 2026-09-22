@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The shoe that fits one person pinches another; there is no recipe for living that suits all cases. — *Carl Jung*
+> A child without education is like a bird without wings. — *Tibetan Proverb*
 
 <!-- QUOTE-END -->
 <!--
