@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> A child without education is like a bird without wings. — *Tibetan Proverb*
+> It's your life-but only if you make it so. — *Eleanor Roosevelt*
 
 <!-- QUOTE-END -->
 <!--
