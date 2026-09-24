@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> It's your life-but only if you make it so. — *Eleanor Roosevelt*
+> Give a girl the right shoes, and she can conquer the world. — *Bette Midler*
 
 <!-- QUOTE-END -->
 <!--
