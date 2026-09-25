@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Give a girl the right shoes, and she can conquer the world. — *Bette Midler*
+> A leader leads by example, not by force. — *Sun Tzu*
 
 <!-- QUOTE-END -->
 <!--
