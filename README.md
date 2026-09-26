@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> A leader leads by example, not by force. — *Sun Tzu*
+> Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail. — *Arnold Schwarzenegger*
 
 <!-- QUOTE-END -->
 <!--
