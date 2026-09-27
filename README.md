@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail. — *Arnold Schwarzenegger*
+> Nothing is permanent in this wicked world - not even our troubles. — *Charlie Chaplin*
 
 <!-- QUOTE-END -->
 <!--
