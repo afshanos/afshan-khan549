@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Nothing is permanent in this wicked world - not even our troubles. — *Charlie Chaplin*
+> If you think adventure is dangerous, try routine; it is lethal. — *Paulo Coelho*
 
 <!-- QUOTE-END -->
 <!--
