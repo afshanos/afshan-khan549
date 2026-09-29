@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> If you think adventure is dangerous, try routine; it is lethal. — *Paulo Coelho*
+> When one does not have what one wants, one must want what one has. — *Sigmund Freud*
 
 <!-- QUOTE-END -->
 <!--
