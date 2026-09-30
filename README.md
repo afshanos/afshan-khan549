@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> When one does not have what one wants, one must want what one has. — *Sigmund Freud*
+> Perplexity is the beginning of knowledge. — *Kahlil Gibran*
 
 <!-- QUOTE-END -->
 <!--
