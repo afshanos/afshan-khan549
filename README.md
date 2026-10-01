@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Perplexity is the beginning of knowledge. — *Kahlil Gibran*
+> Successful people do what unsuccessful people are not willing to do. — *Jim Rohn*
 
 <!-- QUOTE-END -->
 <!--
