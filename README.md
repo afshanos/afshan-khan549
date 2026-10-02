@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Successful people do what unsuccessful people are not willing to do. — *Jim Rohn*
+> The majority of what you want will come from the minority of what you do. — *Gary Keller*
 
 <!-- QUOTE-END -->
 <!--
