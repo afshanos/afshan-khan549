@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The majority of what you want will come from the minority of what you do. — *Gary Keller*
+> Judge your success by what you had to give up in order to get it. — *Dalai Lama*
 
 <!-- QUOTE-END -->
 <!--
