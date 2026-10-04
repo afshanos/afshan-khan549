@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Judge your success by what you had to give up in order to get it. — *Dalai Lama*
+> The man who moved the mountain was the one who began carrying away the smallest stones. — *Zen Proverb*
 
 <!-- QUOTE-END -->
 <!--
