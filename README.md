@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The man who moved the mountain was the one who began carrying away the smallest stones. — *Zen Proverb*
+> Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. — *Robert Kiyosaki*
 
 <!-- QUOTE-END -->
 <!--
