@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. — *Robert Kiyosaki*
+> The art of being wise is knowing what to overlook. — *William James*
 
 <!-- QUOTE-END -->
 <!--
