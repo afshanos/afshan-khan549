@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The art of being wise is knowing what to overlook. — *William James*
+> Our truest life is when we are in dreams awake. — *Henry David Thoreau*
 
 <!-- QUOTE-END -->
 <!--
