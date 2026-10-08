@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Our truest life is when we are in dreams awake. — *Henry David Thoreau*
+> Sometimes adversity is what you need to face in order to become successful. — *Zig Ziglar*
 
 <!-- QUOTE-END -->
 <!--
