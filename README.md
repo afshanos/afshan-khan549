@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Sometimes adversity is what you need to face in order to become successful. — *Zig Ziglar*
+> Life is trying things to see if they work. — *Ray Bradbury*
 
 <!-- QUOTE-END -->
 <!--
