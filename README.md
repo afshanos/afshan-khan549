@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Life is trying things to see if they work. — *Ray Bradbury*
+> Death smiles at us all. All we can do is smile back. — *Marcus Aurelius*
 
 <!-- QUOTE-END -->
 <!--
