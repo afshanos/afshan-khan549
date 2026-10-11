@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Death smiles at us all. All we can do is smile back. — *Marcus Aurelius*
+> In youth we run into difficulties. In old age difficulties run into us. — *Beverly Sills*
 
 <!-- QUOTE-END -->
 <!--
