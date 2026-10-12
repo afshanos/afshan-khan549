@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> In youth we run into difficulties. In old age difficulties run into us. — *Beverly Sills*
+> To lose your temper is only useful once a year. — *Colin R. Davis*
 
 <!-- QUOTE-END -->
 <!--
