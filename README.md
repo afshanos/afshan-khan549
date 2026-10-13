@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> To lose your temper is only useful once a year. — *Colin R. Davis*
+> The people who succeed are irrationally passionate about something. — *Naval Ravikant*
 
 <!-- QUOTE-END -->
 <!--
