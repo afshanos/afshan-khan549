@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The people who succeed are irrationally passionate about something. — *Naval Ravikant*
+> Opportunity often comes disguised in the form of misfortune or temporary defeat. — *Napoleon Hill*
 
 <!-- QUOTE-END -->
 <!--
