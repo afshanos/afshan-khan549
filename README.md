@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Opportunity often comes disguised in the form of misfortune or temporary defeat. — *Napoleon Hill*
+> Use your smile to change the world but don't let the world change your smile. — *Unknown*
 
 <!-- QUOTE-END -->
 <!--
