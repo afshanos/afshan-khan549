@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Use your smile to change the world but don't let the world change your smile. — *Unknown*
+> Success comes to those who become success conscious. — *Napoleon Hill*
 
 <!-- QUOTE-END -->
 <!--
