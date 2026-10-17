@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Success comes to those who become success conscious. — *Napoleon Hill*
+> Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves. — *Adi Da Samraj*
 
 <!-- QUOTE-END -->
 <!--
