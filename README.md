@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Avoiding failure is to avoid progress. — *Unknown*
+> Make your mind your own business. — *Jack Butcher*
 
 <!-- QUOTE-END -->
 <!--
