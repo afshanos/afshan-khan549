@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Make your mind your own business. — *Jack Butcher*
+> Absorb what is useful, discard what is useless and add what is specifically your own. — *Bruce Lee*
 
 <!-- QUOTE-END -->
 <!--
