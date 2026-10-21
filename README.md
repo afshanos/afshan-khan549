@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Absorb what is useful, discard what is useless and add what is specifically your own. — *Bruce Lee*
+> Each problem has a positive side. — *Og Mandino*
 
 <!-- QUOTE-END -->
 <!--
