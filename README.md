@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Each problem has a positive side. — *Og Mandino*
+> Beauty is not in the face; beauty is a light in the heart. — *Kahlil Gibran*
 
 <!-- QUOTE-END -->
 <!--
