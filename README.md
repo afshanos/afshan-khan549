@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before. — *Alexander Graham Bell*
+> The best way to find yourself is to lose yourself in the service of others. — *Mahatma Gandhi*
 
 <!-- QUOTE-END -->
 <!--
