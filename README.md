@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The best way to find yourself is to lose yourself in the service of others. — *Mahatma Gandhi*
+> It is better to learn late than never. — *Publilius Syrus*
 
 <!-- QUOTE-END -->
 <!--
