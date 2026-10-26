@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> It is better to learn late than never. — *Publilius Syrus*
+> The divine is not something high above us. It is in heaven, it is in earth, it is inside us. — *Morihei Ueshiba*
 
 <!-- QUOTE-END -->
 <!--
