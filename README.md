@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The divine is not something high above us. It is in heaven, it is in earth, it is inside us. — *Morihei Ueshiba*
+> Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! — *Tony Robbins*
 
 <!-- QUOTE-END -->
 <!--
