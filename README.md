@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! — *Tony Robbins*
+> Don't seek, don't search, don't ask, don't knock, don't demand - relax. — *Osho*
 
 <!-- QUOTE-END -->
 <!--
