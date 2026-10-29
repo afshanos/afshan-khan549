@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Don't seek, don't search, don't ask, don't knock, don't demand - relax. — *Osho*
+> One of the advantages of being disorganized is that one is always having surprising discoveries. — *A.A. Milne*
 
 <!-- QUOTE-END -->
 <!--
