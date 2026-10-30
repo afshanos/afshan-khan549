@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> One of the advantages of being disorganized is that one is always having surprising discoveries. — *A.A. Milne*
+> The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind. — *F. Scott Fitzgerald*
 
 <!-- QUOTE-END -->
 <!--
