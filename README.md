@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind. — *F. Scott Fitzgerald*
+> Adults are just children who earn money. — *Kenneth Branagh*
 
 <!-- QUOTE-END -->
 <!--
