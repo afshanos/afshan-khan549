@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Adults are just children who earn money. — *Kenneth Branagh*
+> Difficult roads often lead to beautiful destinations. — *Unknown*
 
 <!-- QUOTE-END -->
 <!--
