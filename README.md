@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Difficult roads often lead to beautiful destinations. — *Unknown*
+> Successful people do what unsuccessful people are not willing to do. — *Jim Rohn*
 
 <!-- QUOTE-END -->
 <!--
