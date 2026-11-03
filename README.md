@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Successful people do what unsuccessful people are not willing to do. — *Jim Rohn*
+> Everybody needs a passion. That's what keeps life interesting. — *Betty White*
 
 <!-- QUOTE-END -->
 <!--
