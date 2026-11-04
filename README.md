@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Everybody needs a passion. That's what keeps life interesting. — *Betty White*
+> If there were no God, there would be no atheists. — *Gilbert Chesterton*
 
 <!-- QUOTE-END -->
 <!--
