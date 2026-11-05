@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> If there were no God, there would be no atheists. — *Gilbert Chesterton*
+> Sometimes it is more important to discover what one cannot do, than what one can do. — *Lin Yutang*
 
 <!-- QUOTE-END -->
 <!--
