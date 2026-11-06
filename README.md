@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Sometimes it is more important to discover what one cannot do, than what one can do. — *Lin Yutang*
+> Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight. — *Benjamin Franklin*
 
 <!-- QUOTE-END -->
 <!--
