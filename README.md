@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight. — *Benjamin Franklin*
+> Throw me to the wolves and I will return leading the pack. — *Seneca*
 
 <!-- QUOTE-END -->
 <!--
