@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Throw me to the wolves and I will return leading the pack. — *Seneca*
+> The positive thinker sees the invisible, feels the intangible, and achieves the impossible. — *Winston Churchill*
 
 <!-- QUOTE-END -->
 <!--
