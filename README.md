@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The positive thinker sees the invisible, feels the intangible, and achieves the impossible. — *Winston Churchill*
+> What we dwell on is who we become. — *Oprah Winfrey*
 
 <!-- QUOTE-END -->
 <!--
