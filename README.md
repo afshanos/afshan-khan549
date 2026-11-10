@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> What we dwell on is who we become. — *Oprah Winfrey*
+> Today I begin a new life. I will greet this day with love in my heart. — *Og Mandino*
 
 <!-- QUOTE-END -->
 <!--
