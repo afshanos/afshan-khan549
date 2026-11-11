@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Today I begin a new life. I will greet this day with love in my heart. — *Og Mandino*
+> Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. — *Steve Jobs*
 
 <!-- QUOTE-END -->
 <!--
