@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The harder the conflict, the greater the triumph. — *George Washington*
+> Keep your eyes on the goal, and just keep taking the next step towards completing it. — *John Carmack*
 
 <!-- QUOTE-END -->
 <!--
