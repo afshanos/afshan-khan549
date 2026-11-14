@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Keep your eyes on the goal, and just keep taking the next step towards completing it. — *John Carmack*
+> Beauty is not in the face; beauty is a light in the heart. — *Kahlil Gibran*
 
 <!-- QUOTE-END -->
 <!--
