@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Beauty is not in the face; beauty is a light in the heart. — *Kahlil Gibran*
+> Do not regret the past. Look to the future. — *Soyen Shaku*
 
 <!-- QUOTE-END -->
 <!--
