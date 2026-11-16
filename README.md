@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Do not regret the past. Look to the future. — *Soyen Shaku*
+> Instead of being intimidated by the limitations, be inspired to find new ways around them. — *Ralph Marston*
 
 <!-- QUOTE-END -->
 <!--
