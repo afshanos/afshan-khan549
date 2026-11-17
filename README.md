@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Instead of being intimidated by the limitations, be inspired to find new ways around them. — *Ralph Marston*
+> Courage is resistance to fear, mastery of fear - not absence of fear. — *Mark Twain*
 
 <!-- QUOTE-END -->
 <!--
