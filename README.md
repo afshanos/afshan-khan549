@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Courage is resistance to fear, mastery of fear - not absence of fear. — *Mark Twain*
+> Believe you can and you will be halfway there. — *Lolly Daskal*
 
 <!-- QUOTE-END -->
 <!--
