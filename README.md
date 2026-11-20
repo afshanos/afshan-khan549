@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Never buy a thing you do not want, because it is cheap, it will be dear to you. — *Thomas Jefferson*
+> Nothing can dim the light which shines from within. — *Maya Angelou*
 
 <!-- QUOTE-END -->
 <!--
