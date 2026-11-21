@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Nothing can dim the light which shines from within. — *Maya Angelou*
+> Use your smile to change the world but don't let the world change your smile. — *Unknown*
 
 <!-- QUOTE-END -->
 <!--
