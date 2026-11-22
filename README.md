@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Use your smile to change the world but don't let the world change your smile. — *Unknown*
+> Fortunate are those who take the first steps. — *Paulo Coelho*
 
 <!-- QUOTE-END -->
 <!--
