@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Fortunate are those who take the first steps. — *Paulo Coelho*
+> It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. — *Dalai Lama*
 
 <!-- QUOTE-END -->
 <!--
