@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. — *Dalai Lama*
+> Receive without complaint, Work with fate. — *Ming-Dao Deng*
 
 <!-- QUOTE-END -->
 <!--
