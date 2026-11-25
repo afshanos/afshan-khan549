@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Receive without complaint, Work with fate. — *Ming-Dao Deng*
+> Blessings and burdens are not mutually exclusive. — *Ryan Holiday*
 
 <!-- QUOTE-END -->
 <!--
