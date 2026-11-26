@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Blessings and burdens are not mutually exclusive. — *Ryan Holiday*
+> Much learning does not teach understanding. — *Heraclitus*
 
 <!-- QUOTE-END -->
 <!--
