@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Much learning does not teach understanding. — *Heraclitus*
+> It's the job that's never started that takes the longest to finish. — *J.R.R. Tolkien*
 
 <!-- QUOTE-END -->
 <!--
