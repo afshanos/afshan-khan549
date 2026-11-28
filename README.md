@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> It's the job that's never started that takes the longest to finish. — *J.R.R. Tolkien*
+> In order to carry a positive action, we must develop here a positive vision. — *Dalai Lama*
 
 <!-- QUOTE-END -->
 <!--
